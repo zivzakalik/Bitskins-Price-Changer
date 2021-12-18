@@ -11,7 +11,7 @@ Second is that the lowest one available is 45.55$. The program will set the pric
 
 Third one is the the cheapest is 10$. The program will set the price at 30$, at my lower limit, since I want the item to show up first on the list, but only if the lowest price is within the chosen range - any lower than that is too low for me.
 
-#Usage
+## Usage
 
 The program updates the prices every 60 seconds as long as it runs. It does not update the site while you are in the price updating menu. If you dont want to change anything you can type "skip" to just keep updating the prices on the site.
 
